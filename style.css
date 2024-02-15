@@ -11,12 +11,6 @@ header
     font-style: normal;
 }
 
-header
-{
-    padding: 5px 0;
-    
-}
-
 header nav li
 {
     display: inline;
@@ -39,6 +33,11 @@ header .container
     border-radius: 10px;
 }
 
+.alinhamento
+{
+    display: flex;
+    align-items: center;
+}
 
 .container img
 {
