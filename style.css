@@ -50,13 +50,36 @@ header .container
     font-size: 40px;
     padding: 16px;
     margin: 8px;
-    color: #F3EED9;
+    color: #D3BFA1;
 }
 
+section .container .menu
+{
+    align-items: center;
+}
+
+section .container img
+{
+    height: 700px;
+    padding-left: 50px;
+}
+
+section .container h2
+{
+    font-size: 45px;
+    padding: 16px;
+    width: 150px;
+    align-items: center;
+}
+
+section .container .align
+{
+    width: 200px;
+}
 
 body
 {
-    background-color: rgb(54, 17, 17);
+    background-color: #4E3629;
     font-family: "Lato", sans-serif;
     font-weight: 400;
     font-style: normal;
