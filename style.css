@@ -68,13 +68,10 @@ section .container h2
 {
     font-size: 45px;
     padding: 16px;
+    padding-left: 230px;
     width: 150px;
     align-items: center;
-}
-
-section .container .align
-{
-    width: 200px;
+    color: #D3BFA1;
 }
 
 body
